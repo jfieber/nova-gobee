@@ -461,7 +461,6 @@
   },
   "activationEvents": [
     "onLanguage:go",
-    "onLanguage:gomod",
-    "onWorkspaceContains:go.mod"
+    "onLanguage:gomod"
   ]
 }
